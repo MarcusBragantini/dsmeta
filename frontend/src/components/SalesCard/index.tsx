@@ -52,10 +52,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#341</td>
                             <td className="show576">02/09/2022</td>
-                            <td>Anakin</td>
+                            <td>Peterson</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>55300.00</td>
+                            <td>655500.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
@@ -63,12 +63,12 @@ function SalesCard() {
                             </td>
                         </tr>
                         <tr>
-                            <td className="show992">#341</td>
+                            <td className="show992">#342</td>
                             <td className="show576">02/09/2022</td>
-                            <td>Anakin</td>
+                            <td>Arlinda</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>55300.00</td>
+                            <td>358400.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
@@ -76,12 +76,38 @@ function SalesCard() {
                             </td>
                         </tr>
                         <tr>
-                            <td className="show992">#341</td>
+                            <td className="show992">#343</td>
                             <td className="show576">02/09/2022</td>
-                            <td>Anakin</td>
+                            <td>Bernardo</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>55300.00</td>
+                            <td>257654,00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <NotificationButton />
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#344</td>
+                            <td className="show576">02/09/2022</td>
+                            <td>Railton</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>115800.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <NotificationButton />
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#345</td>
+                            <td className="show576">02/09/2022</td>
+                            <td>Railton</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>55350,00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
